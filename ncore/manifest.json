@@ -1,8 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Custom Context Menu",
+  "name": "Ncore quick find",
   "version": "1.0",
-  "permissions": ["contextMenus"],
+  "permissions": [
+    "contextMenus"
+  ],
   "background": {
     "service_worker": "background.js"
   },
@@ -10,4 +12,3 @@
     "default_popup": "index.html"
   }
 }
-
