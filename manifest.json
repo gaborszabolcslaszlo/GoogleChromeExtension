@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Custom Context Menu",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
+
