@@ -1,0 +1,9 @@
+{
+    "name": "com.my_ffmpeg_app",
+    "description": "FFmpeg Recording App",
+    "path": "/home/laca/Documents/AlfaOmega/Projektek/GoogleChromeExtension/audioOutputRecorder/ffmpeg_script.sh",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://igcanefpnfcgboaheldkmkblmiepoflm/"
+    ]
+}

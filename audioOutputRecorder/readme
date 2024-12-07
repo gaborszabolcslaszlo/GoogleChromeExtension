@@ -1,0 +1,11 @@
+Felhasználószintű (csak a te felhasználód számára):
+
+bash
+Kód másolása
+~/.config/google-chrome/NativeMessagingHosts/com.my_ffmpeg_app.json
+
+Rendszerszintű (minden felhasználó számára):
+
+bash
+Kód másolása
+/etc/opt/chrome/native-messaging-hosts/com.my_ffmpeg_app.json
